@@ -64,7 +64,7 @@ It helps users efficiently manage vehicles, keep maintenance records, set remind
 ## ⚙ Installation & Setup
 
 ### 1️⃣ Clone the Repository
-```bash
+
 git clone https://github.com/yourusername/vehicle-maintenance-system.git
 
 2️⃣ Open in Visual Studio
